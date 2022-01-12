@@ -1,0 +1,36 @@
+.QLabel
+{
+  background-color: transparent;
+  color: #e74c3c;
+  font-family: 'Proxima Nova';
+  font-weight: 700;
+  padding: 5px 60px 5px 25px;
+}
+
+.QLabel[objectName="Quit"]
+{
+  border-color: #E43544;
+  color: #E43544;
+}
+
+.QLabel[objectName="Quit"]:hover
+{
+  background: #E43544;
+}
+
+.QLabel[objectName="Show/Hide"]
+{
+  border-color: #3498db;
+  color: #3498db;
+}
+
+.QLabel[objectName="Show/Hide"]:hover
+{
+  background: #3498db;
+}
+
+.QLabel:hover
+{
+  color: #3C3C3C;
+  background: #e74c3c;
+}
