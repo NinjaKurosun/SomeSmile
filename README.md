@@ -21,3 +21,5 @@
   <img src="https://github.com/Linuxoid-Anon/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/3.png" alt="screenshot3" />
   <img src="https://github.com/Linuxoid-Anon/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/4.png" alt="screenshot4" />
 </div>
+## End
+> Our Telegram <a href="https://t.me/SomeSmile_ru_en">Channel</a> and <a href="https://t.me/SomeSmile_ru_enChat">Group</a>.
