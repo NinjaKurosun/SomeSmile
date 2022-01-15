@@ -10,6 +10,7 @@
     <img src="https://github.com/Linuxoid-Anon/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/6.png" alt="screenshot" />
   </div>
 - To translate the entered Key into Value, you must press Ctrl
+- I think this program is intuitive (should be)
 - That's all
 ## Other Screenshots
 <div align="center">
