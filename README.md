@@ -1,7 +1,7 @@
 # SomeSmile - a free, open source and not yet cross-platform
 
 <div align="center">
-  <img src="https://github.com/Linuxoid-Anon/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/5.png" alt="screenshot" />
+  <img src="https://github.com/Linuxoid-Anon/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/5.PNG" alt="screenshot" />
 </div>
 
 ##Usage Guide
