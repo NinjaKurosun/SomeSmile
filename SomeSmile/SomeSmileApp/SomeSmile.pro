@@ -1,11 +1,11 @@
 TEMPLATE = app
 QT += widgets
 RC_ICONS = Resource/SomeSmileIcon.ico
-VERSION = 1.6.0.0
+VERSION = 1.7.0.0
 
 CONFIG += c++17
 
-#the SS = SomeSmile
+# SS = SomeSmile
 SOURCES = main.cpp \
     SSMainWindow.cpp \
     SSSetKeyAndValue.cpp \

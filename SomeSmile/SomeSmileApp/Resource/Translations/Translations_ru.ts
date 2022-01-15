@@ -16,8 +16,12 @@
         <translation>&amp;Применить</translation>
     </message>
     <message>
-        <source>&amp;Auto-Translate</source>
-        <translation>&amp;Авто-Перевод</translation>
+        <source>Auto-&amp;Translate</source>
+        <translation>Авто-&amp;Перевод</translation>
+    </message>
+    <message>
+        <source>Auto&amp;run</source>
+        <translation>Авто-&amp;Запуск</translation>
     </message>
 </context>
 <context>
@@ -47,11 +51,11 @@
     <name>SystemTray</name>
     <message>
         <source>Show/Hide</source>
-        <translation>Спрятать/Показать</translation>
+        <translation>Показать/Спрятать</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>О программе</translation>
+        <translation>О Программе</translation>
     </message>
     <message>
         <source>About Qt</source>

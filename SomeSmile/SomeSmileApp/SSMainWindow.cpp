@@ -11,7 +11,8 @@ MainWindow::MainWindow(QWidget* wgt /*= 0*/) : QWidget(wgt)
     tr("&Set Keys-Values...");
     tr("&Apply");
 
-    tr("&Auto-Translate");
+    tr("Auto-&Translate");
+    tr("Auto&run");
 
 //----------------------------------------------------------------------------------------
     move(SomeSmileSettings::pos("MainWindow"));

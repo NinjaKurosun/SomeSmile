@@ -3,8 +3,3 @@
   background-color: #454545;
   border: 1px solid #2C2C2C;
 }
-
-.QMenu::separator
-{
-  color: white;
-}
