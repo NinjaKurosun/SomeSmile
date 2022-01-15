@@ -1,4 +1,4 @@
-# SomeSmile - ***a free, <a style="color: #7BE435;" href="https://en.wikipedia.org/wiki/Open_source">open source</a> and not yet cross-platform***
+# SomeSmile - ***a free, <a href="https://en.wikipedia.org/wiki/Open_source">open source</a> and not yet cross-platform***
 
 <div align="center">
   <img src="https://github.com/Linuxoid-Anon/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/5.PNG" alt="screenshot" />
@@ -24,3 +24,4 @@
 
 ## End
 > Our Telegram <a href="https://t.me/SomeSmile_ru_en">Channel</a> and <a href="https://t.me/SomeSmile_ru_enChat">Group</a>.
+> The license <a href="https://www.gnu.org/licenses/gpl.html">GNU General Public License v3.0</a>
