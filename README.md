@@ -1,4 +1,4 @@
-# SomeSmile - a ***free***, ***open source*** and ***not yet*** cross-platform
+# SomeSmile - ***a free, <a style="color: #7BE435;" href="https://en.wikipedia.org/wiki/Open_source">open source</a> and not yet cross-platform***
 
 <div align="center">
   <img src="https://github.com/Linuxoid-Anon/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/5.PNG" alt="screenshot" />
