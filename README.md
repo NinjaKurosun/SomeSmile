@@ -11,7 +11,7 @@
   </div>
 - To translate the entered Key into Value, you must press Ctrl
 - I think this program is intuitive (should be)
-- End
+- The End
 
 ## How to build
 1. Open it SomeSmile.pro in Qt Creator, select the configuration and press Ctrl+R.
