@@ -21,14 +21,13 @@
 
 ## Other Screenshots
 <div align="center">
-  ![screenshot5](/SomeSmile/SomeSmileCaptur/5.PNG)
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/5.PNG" alt="screenshot5" />
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/0.png" alt="screenshot0" />
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/1.png" alt="screenshot1" />
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/2.png" alt="screenshot2" />
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/3.png" alt="screenshot3" />
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/4.png" alt="screenshot4" />
-</div>
+</div> 
 
 ## End
 > Our Telegram <a href="https://t.me/SomeSmile_ru_en">Channel</a> and <a href="https://t.me/SomeSmile_ru_enChat">Group</a>.
