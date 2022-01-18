@@ -15,8 +15,8 @@
 
 ## How to build
 1. Open it SomeSmile.pro in Qt Creator, select the configuration and press Ctrl+R.
-2. Next, compile the library (```"Switcher"``` from the ```SomeSmileDll``` folder) in Visual Studio in all configurations, then rename the output files to ```Switcher32.dll``` and ```Switcher64.dll```, depending on the bits.
-3. Copy the ```Switcher32.dll``` and ```Switcher64.dll``` files to the ```release``` folder, and run ```windeployqt.exe```.
+2. Next, compile the library (`"Switcher"` from the `SomeSmileDll` folder) in Visual Studio in all configurations, then rename the output files to `Switcher32.dll` and `Switcher64.dll`, depending on the bits.
+3. Copy the `Switcher32.dll` and `Switcher64.dll` files to the `release` folder, and run `windeployqt.exe`.
 
 
 ## Other Screenshots
