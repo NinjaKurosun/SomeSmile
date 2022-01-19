@@ -6,6 +6,7 @@
 
 ## Table of contents
 - [Usage Guide](#usage-guide)
+- [How to build](#How-to-build)
 
 ## Usage Guide
 - Do not delete line 71 in the SSMainWindow file.
