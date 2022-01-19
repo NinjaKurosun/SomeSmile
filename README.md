@@ -4,6 +4,9 @@
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/5.PNG" alt="screenshot" />
 </div>
 
+## Table of contents
+- [Usage Guide](#usage-guide)
+
 ## Usage Guide
 - Do not delete line 71 in the SSMainWindow file.
   <div>
