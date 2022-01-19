@@ -13,21 +13,21 @@
 - [End](#End)
 
 ## Structure
-```
+```cpp
   SomeSmile-main/
   ├────SomeSmile/
   │    ├────SomeSmileDll/
   │    │    └────Switcher/
   │    │         ├────Switcher/
+  │    │         │    └→Code
   │    │         └→Switcher.sln // To Open In Visual Studio
   │    ├────Screenshots/
   │    └────SomeSmileApp/
   │         ├────Resource/
   │         │    ├────Translations/
   │         │    ├────QStyle/
-  │         │    ├────iconSource/
-  │         │    ├→SomeSmileIcon.ico
-  │         │    └→AboutIcon.png
+  │         │    └────iconSource/
+  │         ├→Code
   │         └→SomeSmile.pro // To Open In QtCreator
   └→README.md //You See
 ```
