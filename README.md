@@ -1,7 +1,7 @@
 # SomeSmile - ***a free, <a href="https://en.wikipedia.org/wiki/Open_source">open source</a> and not yet cross-platform***
 
 <div align="center">
-  <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/5.PNG" alt="screenshot" />
+  <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/5.PNG" alt="screenshot" />
 </div>
 
 ## Usage Guide
@@ -21,9 +21,9 @@
 
 ## Other Screenshots
 <div align="center">
-  <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/1.png" alt="screenshot1" />
-  <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/2.png" alt="screenshot2" />
-  <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/SomeSmileCaptur/4.png" alt="screenshot4" />
+  <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/1.png" alt="screenshot1" />
+  <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/2.png" alt="screenshot2" />
+  <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/4.png" alt="screenshot4" />
 </div> 
 
 ## End
