@@ -5,14 +5,14 @@
 </div>
 
 ## Table Of Contents
-- [Downloading](#Downloading)
+- [Downloading](#Download)
 - [Usage Guide](#Usage-Guide)
 - [How to build](#How-to-build)
 - [Screenshots](#Screenshots)
 - [End](#End)
 
-## Downloading
-- Download.
+## Download
+- [Download](https://github.com/Sonic-TheHedgehog/SomeSmile/releases).
 - Move the archive to any path and unzip it.
 - Run.
 - Your mind: Wow, you did it!
