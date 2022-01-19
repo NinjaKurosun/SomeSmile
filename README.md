@@ -4,11 +4,19 @@
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/5.PNG" alt="screenshot" />
 </div>
 
-## Table of contents
+## Table Of Contents
+- [Downloading](#Downloading)
 - [Usage Guide](#Usage-Guide)
 - [How to build](#How-to-build)
 - [Screenshots](#Screenshots)
 - [End](#End)
+
+## Downloading
+- Download.
+- Move the archive to any path and unzip it.
+- Run.
+- Your mind: Wow, you did it!
+- Let's get [Usage Guide](#Usage-Guide)!
 
 ## Usage Guide
 - Do not delete line 71 in the SSMainWindow file.
