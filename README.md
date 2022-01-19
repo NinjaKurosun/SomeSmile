@@ -5,8 +5,10 @@
 </div>
 
 ## Table of contents
-- [Usage Guide](#usage-guide)
+- [Usage Guide](#Usage-Guide)
 - [How to build](#How-to-build)
+- [Screenshots](#Screenshots)
+- [End](#End)
 
 ## Usage Guide
 - Do not delete line 71 in the SSMainWindow file.
@@ -23,7 +25,7 @@
 3. Copy the `Switcher32.dll` and `Switcher64.dll` files to the `release` folder, and run `windeployqt.exe`.
 
 
-## Other Screenshots
+## Screenshots
 <div align="center">
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/1.png" alt="screenshot1" />
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/2.png" alt="screenshot2" />
