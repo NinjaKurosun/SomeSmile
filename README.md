@@ -33,11 +33,11 @@
 ```
 
 ## Start
-- [Download](https://github.com/Sonic-TheHedgehog/SomeSmile/releases).
-- Move the archive to any path and unzip it.
-- Run.
-- Your mind: Wow, you did it!
-- Let's get [Usage Guide](#Usage-Guide)!
+1. [Download](https://github.com/Sonic-TheHedgehog/SomeSmile/releases).
+2. Move the archive to any path and unzip it.
+3. Run.
+4. Your mind: Wow, you did it!
+5. Let's get [Usage Guide](#Usage-Guide)!
 
 ## Usage Guide
 - Do not delete line 71 in the SSMainWindow file.
