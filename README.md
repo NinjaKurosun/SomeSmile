@@ -21,7 +21,7 @@
   │    │         ├────Switcher/
   │    │         │    └→Code
   │    │         └→Switcher.sln // To Open In Visual Studio
-  │    ├────Screenshots/
+  │    ├────Screenshots/ // This is Screenshots =)
   │    └────SomeSmileApp/
   │         ├────Resource/
   │         │    ├────Translations/
