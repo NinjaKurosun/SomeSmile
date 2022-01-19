@@ -1,4 +1,4 @@
-# SomeSmile - ***a free, <a href="https://en.wikipedia.org/wiki/Open_source">open source</a> and not yet cross-platform***
+# SomeSmile - ***a free, [open source](https://en.wikipedia.org/wiki/Open_source) and not yet cross-platform***
 
 <div align="center">
   <img src="https://github.com/Sonic-TheHedgehog/SomeSmile/blob/main/SomeSmile/Screenshots/5.PNG" alt="screenshot" />
