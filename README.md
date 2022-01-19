@@ -41,5 +41,5 @@
 </div> 
 
 ## End
-> Our Telegram <a href="https://t.me/SomeSmile_ru_en">Channel</a> and <a href="https://t.me/SomeSmile_ru_enChat">Group</a>.
-> The license <a href="https://www.gnu.org/licenses/gpl.html">GNU General Public License v3.0</a>
+> Our Telegram [Channel](https://t.me/SomeSmile_ru_en) and [ChatGroup](https://t.me/SomeSmile_ru_en).
+> The license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl.html)
