@@ -5,12 +5,17 @@
 </div>
 
 ## Table Of Contents
-- [Structure]()
+- [For What?](#For-What?)
+- [Structure](#Structure)
 - [Start](#Start)
 - [Usage Guide](#Usage-Guide)
 - [How To Build](#How-To-Build)
 - [Screenshots](#Screenshots)
 - [End](#End)
+
+## For What?
+> The program provides keyboard macros
+> Or just a Key-word that can be converted to a Value-word
 
 ## Structure
 ```cpp
