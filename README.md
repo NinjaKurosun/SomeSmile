@@ -14,8 +14,9 @@
 - [End](#End)
 
 ## For What?
-> The program provides keyboard macros
-> Or just a Key-word that can be converted to a Value-word
+ The program provides keyboard macros <br>
+ Or just a Key-word that can be converted to a Value-word <br>
+ You can define that in the table <br>
 
 ## Structure
 ```cpp
