@@ -5,7 +5,7 @@
 </div>
 
 ## Table Of Contents
-- [For What?](#For-What?)
+- [For What?](#For-What)
 - [Structure](#Structure)
 - [Start](#Start)
 - [Usage Guide](#Usage-Guide)
