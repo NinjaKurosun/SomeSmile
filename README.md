@@ -69,5 +69,5 @@
 
 ## End
 > Our Telegram [Channel](https://t.me/SomeSmile_ru_en) and [ChatGroup](https://t.me/SomeSmile_ru_en).
-> The license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl.html)
+> The license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl.html)<br/>
 > This program is not very finished, sorry ¯\_(ツ)_/¯
